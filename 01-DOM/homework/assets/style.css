@@ -33,7 +33,7 @@ body {
 
 #container {
   background-color: #428fbb;
-  box-shadow: 2px 2px 5px#000;
+  box-shadow: 2px 2px 5px #000;
   width: 50%;
   min-width: 700px;
   border-radius: 5px;
@@ -94,7 +94,7 @@ body {
   width: 90%;
 }
 .completeText {
-  color: lightgrey;
+  color: rgb(253, 13, 13);
   text-decoration: line-through;
 }
 
