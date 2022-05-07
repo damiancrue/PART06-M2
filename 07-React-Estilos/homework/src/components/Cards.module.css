@@ -1,0 +1,7 @@
+.cards{
+    align-content:space-between;
+    padding: 10px;
+    display: flex;
+    align-items: stretch;
+    background-color: rgba(41, 94, 76, 0.048);
+}

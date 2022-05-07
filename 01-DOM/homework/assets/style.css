@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(232, 246, 255);
+  background-color: rgb(33, 36, 37);
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   margin-top: 56px;
   display: flex;
@@ -12,7 +12,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background: #428fbb;
+  background: #363e42;
   height: 56px;
   /* padding-left: 15px; */
   display: flex;
@@ -32,7 +32,7 @@ body {
 
 
 #container {
-  background-color: #428fbb;
+  background-color: #121c22;
   box-shadow: 2px 2px 5px #000;
   width: 50%;
   min-width: 700px;
@@ -44,6 +44,9 @@ body {
   justify-content: center;
   padding: 10px;
   margin-bottom: 25px;
+}
+#createdBy {
+  color :#aeafaf
 }
 
 #toDoInput {
@@ -64,7 +67,7 @@ body {
   border-radius: 4px;
   cursor: pointer;
   height: 35px;
-  background: #0160A2;
+  background: #494e52;
   color: #FFF;
   font-size: 20px;
 }
@@ -83,13 +86,13 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background: #fff;
+  background: rgb(128, 124, 124);
   margin-bottom: 10px;
   border-radius: 5px;
   font-size: 20px;
   padding: 5px;
 }
-
+  
 .toDoShell span {
   width: 90%;
 }

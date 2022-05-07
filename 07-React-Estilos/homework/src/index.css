@@ -5,9 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  background-image: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.lifeder.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fclima-tipos.jpg&imgrefurl=https%3A%2F%2Fwww.lifeder.com%2Fclima%2F&tbnid=n2TeT4S-gqtGPM&vet=12ahUKEwiy0qjp5cT3AhVerpUCHWL2AScQMygEegUIARDhAQ..i&docid=cMpTmw0QGW02LM&w=1205&h=498&q=imagenes%20clima&ved=2ahUKEwiy0qjp5cT3AhVerpUCHWL2AScQMygEegUIARDhAQ';
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+html {
+  background: url(https://www.on24.com.ar/wp-content/uploads/2021/10/Clima-696x418.gif) no-repeat center center fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
 }

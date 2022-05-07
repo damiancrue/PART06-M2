@@ -1,0 +1,18 @@
+
+.form{
+border-style: none
+
+
+};
+
+.place{
+border-color: #85DB3D;
+border-width: 2px;
+
+};
+
+.button{
+    border-color: #85DB3D;
+    border-width: 2px;
+    background-color: #85DB3D;
+};

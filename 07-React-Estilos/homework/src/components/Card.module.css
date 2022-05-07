@@ -1,0 +1,32 @@
+.btn {
+    background-color: rgba(248, 35, 35, 0.815);
+    width: 30px;
+    margin: 5px;
+    color: white;
+    float: right;
+    border-radius: 3px;
+}
+.contenedor {
+    background-color: #38327083;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px;
+    align-content: space-around;
+    align-items:center;
+    color: rgb(232, 247, 242);
+    box-shadow: 3px 3px 10px black;
+    height: 200px;
+}
+.tarj{
+    background-color: #7567f073;
+    border-radius: 5px;
+    display: flex;
+    align-items: stretch;
+    padding: 10px;
+    height: 100px;
+}
+.ele {
+    padding: 20px;
+    width: 30%;
+    align-self: center;
+}
